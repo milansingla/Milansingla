@@ -112,7 +112,7 @@ public class MilanSingla {
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/milan-singla">
+<a href="https://www.linkedin.com/in/milan-singla-146437215/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
