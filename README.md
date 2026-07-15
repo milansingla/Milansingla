@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Milansingla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Milan Singla</h1>
 
-<!---
-Milansingla/Milansingla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&center=true&width=600&lines=Computer+Science+Student;Software+Engineer;AI+%7C+Cybersecurity+%7C+AR%2FVR;Building+Real-World+Solutions" />
+</p>
+
+<p align="center">
+🚀 AI • Cybersecurity • Software Engineering • AR/VR
+</p>
