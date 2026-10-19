@@ -42,7 +42,7 @@
 <td align="center">
 <a href="https://app.termedu.in"><img src="assets/termedu.svg" width="440" alt="Termedu LMS" /></a>
 <br/>
-<a href="https://app.termedu.in">Live</a> &nbsp;|&nbsp; <a href="https://github.com/milansingla/Termedu-LMS">Source</a>
+ <a href="https://github.com/milansingla/Termedu-LMS">Source</a>
 </td>
 <td align="center">
 <a href="https://meet.vrxed.com"><img src="assets/vrxed-meet.svg" width="440" alt="VRxED Meet" /></a>
