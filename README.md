@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%3A1e3a8a,100:06b6d4&height=220&section=header&text=Milan%20Singla&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Real-Time%20Systems%20%C2%B7%20Security&descSize=18&descAlignY=60" width="100%" />
 
 <a href="https://github.com/milansingla">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=Shipping+products%2C+not+just+projects;Tech+Lead+%40+Termedu+%26+VRxED;AI%2FML+%C3%97+Real-Time+Video+%C3%97+DevOps;Learn.+Build.+Secure.+Repeat." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=Shipping+products%2C+not+just+projects;Tech+Lead+%40+Termedu+%26+VRxED;AI%2FML+%7C+Real-Time+Video+%7C+DevOps;Learn.+Build.+Secure.+Repeat." alt="Typing animation" />
 </a>
 
 <br/>
@@ -14,16 +14,9 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## `whoami`
-
-```bash
-$ whoami
-milan-singla
-
-$ cat about.json
-```
+## About
 
 ```json
 {
@@ -38,60 +31,44 @@ $ cat about.json
 }
 ```
 
----
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 🚀 Featured Projects
+## Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎓 [Termedu LMS](https://github.com/milansingla/Termedu-LMS)
-A full learning management platform: auth, course catalog, real-time notifications and an analytics dashboard.
-
-`Full-stack` `Real-time` `Analytics`
-
-[**Live →**](https://app.termedu.in) · [Code →](https://github.com/milansingla/Termedu-LMS)
-
+<td align="center">
+<a href="https://app.termedu.in"><img src="assets/termedu.svg" width="440" alt="Termedu LMS" /></a>
+<br/>
+<a href="https://app.termedu.in">Live</a> &nbsp;|&nbsp; <a href="https://github.com/milansingla/Termedu-LMS">Source</a>
 </td>
-<td width="50%" valign="top">
-
-### 🎥 [VRxED Meet](https://github.com/milansingla/VRxED-Meet)
-Real-time communication platform with audio/video calls, screen sharing, chat and recording.
-
-`WebRTC` `Real-time` `Streaming`
-
-[**Live →**](https://meet.vrxed.com) · [Code →](https://github.com/milansingla/VRxED-Meet)
-
+<td align="center">
+<a href="https://meet.vrxed.com"><img src="assets/vrxed-meet.svg" width="440" alt="VRxED Meet" /></a>
+<br/>
+<a href="https://meet.vrxed.com">Live</a> &nbsp;|&nbsp; <a href="https://github.com/milansingla/VRxED-Meet">Source</a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 [VRxNuro](https://github.com/milansingla/VRxNuro-)
-AI/ML application built with Python, TensorFlow, Flask and BioMistral.
-
-`AI/ML` `TensorFlow` `Flask` `LLM`
-
-[**Live →**](https://ai.vrxed.com) · [Code →](https://github.com/milansingla/VRxNuro-)
-
+<td align="center">
+<a href="https://ai.vrxed.com"><img src="assets/vrxnuro.svg" width="440" alt="VRxNuro" /></a>
+<br/>
+<a href="https://ai.vrxed.com">Live</a> &nbsp;|&nbsp; <a href="https://github.com/milansingla/VRxNuro-">Source</a>
 </td>
-<td width="50%" valign="top">
-
-### 🚢 [Shipyard](https://github.com/milansingla/shipyard)
-Deployment tooling with health-check-based traffic switching and zero-downtime redeploys.
-
-`DevOps` `Docker` `Zero-downtime`
-
-[Code →](https://github.com/milansingla/shipyard)
-
+<td align="center">
+<a href="https://github.com/milansingla/shipyard"><img src="assets/shipyard.svg" width="440" alt="Shipyard" /></a>
+<br/>
+<a href="https://github.com/milansingla/shipyard">Source</a>
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🛠 Tech Stack
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
+
+## Tech Stack
 
 <div align="center">
 
@@ -132,9 +109,9 @@ Deployment tooling with health-check-based traffic switching and zero-downtime r
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -143,25 +120,23 @@ Deployment tooling with health-check-based traffic switching and zero-downtime r
 
 <img src="https://streak-stats.demolab.com?user=milansingla&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=milansingla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
 </div>
 
----
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 🌱 Currently
+## Currently
 
 | | |
 |---|---|
-| 🔭 **Building** | Termedu, VRxED Meet, VRxNuro, Shipyard |
-| 📚 **Learning** | Distributed systems, system design, Docker, Linux, Swift/SwiftUI |
-| 🔐 **Exploring** | Secure software development, AI infrastructure, cloud-native tech |
-| 🎓 **Coursework** | DSA, Operating Systems, Computer Networks, DBMS |
-| 🏆 **Won** | Cre'oVate, Chitkara University (2025) |
+| **Building** | Termedu, VRxED Meet, VRxNuro, Shipyard |
+| **Learning** | Distributed systems, system design, Docker, Linux, Swift/SwiftUI |
+| **Exploring** | Secure software development, AI infrastructure, cloud-native tech |
+| **Coursework** | DSA, Operating Systems, Computer Networks, DBMS |
+| **Recognition** | Cre'oVate winner, Chitkara University (2025) |
 
----
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 🤝 Let's Connect
+## Connect
 
 <div align="center">
 
